@@ -22,7 +22,7 @@ The computer vision has gained great success since the re-invention of deep neur
 
 In this class, we aim to study embodied (action- and physic-aware) perception.  We provides a technical overview over: (1) 4D modeling, (2) Dynamic simulation, (3) Multi-sensory perception, and (4) Action-centric perception.
 
-Please fill in this google form if you are interested in extra enrollment (https://tinyurl.com/af3pj8sw)!
+Please fill in this [google form](https://forms.gle/ZS64KrqJmoeLzxK67) if you are interested in extra enrollment!
 
 ---
 
