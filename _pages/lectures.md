@@ -41,9 +41,12 @@ lectures:
     date: 2026/5/11
     slides: 
   - title: Multi-sensory Perception
-    date: 2026/5/25
+    date: 2026/5/18
     slides: 
   - title: SLAM, Perceptive Action Decision
+    date: 2026/5/25
+    slides: 
+  - title: Visual language model for embodied perception
     date: 2026/6/1
     slides: 
 ---
