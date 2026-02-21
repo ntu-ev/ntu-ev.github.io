@@ -15,7 +15,6 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Instructor: Tsung-Wei Ke</p>
-      <a href= "mailto:twke@csie.ntu.edu">twke@csie.ntu.edu</a>
       <p>Office hours: Fri, 1-2 pm</p>
   - align: left
     image: prof_ta_jwl.jpg
@@ -26,28 +25,28 @@ profiles:
       </a>
       <p>Office hours: TBD</p>
   - align: left
-    image: 
+    image: prof_ta_chm.jpg 
     content: 
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>TA: Hung-Kai Chung </p>
       <p>Office hours: TBD</p>
   - align: left
-    image: 
+    image: prof_ta_fss.jpeg
     content: 
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>TA: Shih-Hsin Fang</p>
       <p>Office hours: TBD</p>
   - align: left
-    image: 
+    image: prof_ta_pyw.jpg
     content: 
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>TA: Po-Yi Wu</p>
       <p>Office hours: TBD</p>
   - align: left
-    image: 
+    image: prof_ta_csw.png
     content: 
     image_circular: true # crops the image to make it circular
     more_info: >
