@@ -9,7 +9,7 @@ nav_order: 2
 lectures:
   - title: Introduction
     date: 2026/2/23
-    slides: 
+    slides: lecture0_intro.pdf
   - title: 2D Image Formation
     date: 2026/3/2
     slides: 
