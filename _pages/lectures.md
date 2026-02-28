@@ -12,7 +12,7 @@ lectures:
     slides: lecture0_intro.pdf
   - title: 2D Image Formation
     date: 2026/3/2
-    slides: 
+    slides: lecture1_image_formation.pdf
   - title: 3D Representations
     date: 2026/3/9
     slides: 
