@@ -15,7 +15,7 @@ lectures:
     slides: lecture1_image_formation.pdf
   - title: 3D Representations
     date: 2026/3/9
-    slides: 
+    slides: lecture2_3d_representation.pdf
   - title: 3D Scene Reconstruction
     date: 2026/3/16
     slides: 
