@@ -18,7 +18,7 @@ lectures:
     slides: lecture2_3d_representation.pdf
   - title: 3D Scene Reconstruction
     date: 2026/3/16
-    slides: 
+    slides: lecture3_rendering.pdf
   - title: Visual Modeling in Time
     date: 2026/3/23
     slides: 
