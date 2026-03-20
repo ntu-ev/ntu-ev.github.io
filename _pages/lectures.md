@@ -21,7 +21,7 @@ lectures:
     slides: lecture3_rendering.pdf
   - title: Visual Modeling in Time
     date: 2026/3/23
-    slides: 
+    slides: lecture4_4d_modeling.pdf
   - title: Generative Modeling
     date: 2026/3/30
     slides: 
