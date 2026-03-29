@@ -22,9 +22,12 @@ lectures:
   - title: Visual Modeling in Time
     date: 2026/3/23
     slides: lecture4_4d_modeling.pdf
-  - title: Generative Modeling
+  - title: Generative Modeling (Part 1)
     date: 2026/3/30
-    slides: 
+    slides: lecture5_generative_modeling_part1.pdf
+  - title: Generative Modeling (Part 2)
+    date: 2026/4/13
+    slides:
   - title: Rigid Body Motion, Articulated Object Modeling, Articulated Object Generation
     date: 2026/4/13
     slides: 
