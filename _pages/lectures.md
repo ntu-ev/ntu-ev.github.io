@@ -31,26 +31,23 @@ lectures:
   - title: Rigid Body Motion, Articulated Object Modeling, Articulated Object Generation
     date: 2026/4/13
     slides: 
-  - title: Time Integration, Particle-based System, Position-Based Dynamics, Mass-Spring System in 3D
+  - title: Time Integration, Mass-Spring System, Position-Based Dynamics, The Finite Element Method
     date: 2026/4/20
     slides: 
-  - title: The Finite Element Method, Rigid-Body Modeling, Contact Modeling
+  - title: Lagrangian Mechanics, Contact Modeling, Material Point Method
     date: 2026/4/27
     slides: 
-  - title: Material Point Method, Learning to Model Physics (Neural ODE, Lagrangian Network)
+  - title: Learning to Model Physics
     date: 2026/5/4
     slides: 
-  - title: Learning to Model Physics (PINN, Neural Operator), Interactive Simulation
+  - title: SLAM, Perceptive Action Decision
     date: 2026/5/11
     slides: 
   - title: Multi-sensory Perception
     date: 2026/5/18
     slides: 
-  - title: SLAM, Perceptive Action Decision
-    date: 2026/5/25
-    slides: 
   - title: Visual language model for embodied perception
-    date: 2026/6/1
+    date: 2026/5/25
     slides: 
 ---
 
