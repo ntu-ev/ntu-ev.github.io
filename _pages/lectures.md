@@ -30,7 +30,7 @@ lectures:
     slides: lecture5_generative_modeling_part2.pdf
   - title: Rigid Body Motion, Articulated Object Modeling, Articulated Object Generation
     date: 2026/4/13
-    slides: 
+    slides: lecture6_rigid_body_motion.pdf
   - title: Time Integration, Mass-Spring System, Position-Based Dynamics, The Finite Element Method
     date: 2026/4/20
     slides: 
