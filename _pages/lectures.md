@@ -32,16 +32,16 @@ lectures:
     date: 2026/4/13
     slides: lecture6_rigid_body_motion.pdf
   - title: Time Integration, Mass-Spring System, Position-Based Dynamics, The Finite Element Method
-    date: 2026/4/20
-    slides: 
-  - title: Lagrangian Mechanics, Contact Modeling, Material Point Method
     date: 2026/4/27
-    slides: 
-  - title: Learning to Model Physics
+    slides: lecture7_time_integration_and_particle_motion.pdf
+  - title: Lagrangian Mechanics, Contact Modeling, Material Point Method
     date: 2026/5/4
     slides: 
-  - title: SLAM, Perceptive Action Decision
+  - title: Learning to Model Physics
     date: 2026/5/11
+    slides: 
+  - title: SLAM, Perceptive Action Decision
+    date: 2026/5/18
     slides: 
   - title: Multi-sensory Perception
     date: 2026/5/18
