@@ -36,7 +36,7 @@ lectures:
     slides: lecture7_time_integration_and_particle_motion.pdf
   - title: Lagrangian Mechanics, Contact Modeling, Material Point Method
     date: 2026/5/4
-    slides: 
+    slides: lecture8_lagrangian_incremental_potential.pdf
   - title: Learning to Model Physics
     date: 2026/5/11
     slides: 
