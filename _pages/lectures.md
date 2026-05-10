@@ -39,7 +39,7 @@ lectures:
     slides: lecture8_lagrangian_incremental_potential.pdf
   - title: Learning to Model Physics
     date: 2026/5/11
-    slides: 
+    slides: lecture9_learning_dynamics.pdf
   - title: SLAM, Perceptive Action Decision
     date: 2026/5/18
     slides: 
