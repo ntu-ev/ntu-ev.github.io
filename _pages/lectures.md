@@ -43,6 +43,9 @@ lectures:
   - title: Multi-sensory Perception
     date: 2026/5/18
     slides: lecture10_multimodal_perception.pdf
+  - title: Guest lecture by Shan-Yuan Teng on Tactile Sensing
+    date: 2026/5/18
+    slides: 
   - title: SLAM, Perceptive Action Decision
     date: 2026/5/25
     slides: 
