@@ -40,11 +40,11 @@ lectures:
   - title: Learning to Model Physics
     date: 2026/5/11
     slides: lecture9_learning_dynamics.pdf
-  - title: SLAM, Perceptive Action Decision
-    date: 2026/5/18
-    slides: 
   - title: Multi-sensory Perception
     date: 2026/5/18
+    slides: lecture10_multimodal_perception.pdf
+  - title: SLAM, Perceptive Action Decision
+    date: 2026/5/25
     slides: 
   - title: Visual language model for embodied perception
     date: 2026/5/25
