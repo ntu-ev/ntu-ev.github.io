@@ -45,13 +45,10 @@ lectures:
     slides: lecture10_multimodal_perception.pdf
   - title: Guest lecture by Shan-Yuan Teng on Tactile Sensing
     date: 2026/5/18
-    slides: 
-  - title: SLAM, Perceptive Action Decision
-    date: 2026/5/25
-    slides: 
+    slides: lecture10_multimodal_perception.pdf
   - title: Visual language model for embodied perception
-    date: 2026/5/25
-    slides: 
+    date: 2026/6/1
+    slides: lecture11_vision_language_models_robotics.pdf
 ---
 
 ### Schedule
